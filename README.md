@@ -1,10 +1,3 @@
-# Python-AI
+# Python-AI-For-Humans
 
-Comprehensive notes on Python and AI explained easily.
-
-Also attached my college notes and assignments.
-[To View My College Stuff](./College-Wiki/README.md)
-
-[Learn Python](./Python/README.md)
-
-[Learn AI](./Artificial-Intelligence/README.md)
+This repo is archived. All active work will henceforth commence [here](https://github.com/CompileZero/Web-AI-Mastery)
