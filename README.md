@@ -1,4 +1,5 @@
 # Python-AI
+
 Comprehensive notes on Python and AI explained easily.
 
 Also attached my college notes and assignments.
